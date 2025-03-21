@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=blur)
 <!--
 **yskim9809/yskim9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
