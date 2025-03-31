@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=blur&color=cac6fa&fontColor=FFFFFF&height=400&section=header&text=안녕하세요...&fontSize=20&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=blur&color=cac6fa&fontColor=FFFFFF&height=400&section=header&text=안녕하세요....&fontSize=20&animation=twinkling)
 <!--
 **yskim9809/yskim9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
