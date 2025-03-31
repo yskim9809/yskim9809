@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=cac6fa&fontColor=FFFFFF&height=400&section=header&text=안녕하세요....&fontSize=20&animation=twinkling)
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ... </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> .... </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ What I've Used </h2> <br> 
