@@ -20,6 +20,8 @@
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
           </div>
     </div>
+
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=88888z)](https://solved.ac/88888z/)
     
 <!--
 **yskim9809/yskim9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
